@@ -1,1 +1,1 @@
-worker: python JammyBot Assistant.py
+worker: python assistant.py
